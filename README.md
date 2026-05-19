@@ -24,15 +24,11 @@ Focada em desenvolver habilidades sólidas para atuar no mercado de tecnologia.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Atividade
 
-<div align="center">
+🟩 Acompanhe minha evolução diretamente pelo meu perfil: [github.com/1leao](https://github.com/1leao)
 
-![Gabriela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1leao&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1leao&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
+> O gráfico de contribuições e os repositórios fixados mostram meu progresso em tempo real!
 
 ---
 
