@@ -34,6 +34,7 @@ Focada em desenvolver habilidades sólidas para atuar no mercado de tecnologia.
 
 ## 📂 Projetos em Destaque
 
+- [Sistema de Gestão de Personal Trainer](https://github.com/1leao/Sistema-de-Gestao-de-Personal-Trainer)
 > *Em construção — novos projetos em breve!*
 
 ---
